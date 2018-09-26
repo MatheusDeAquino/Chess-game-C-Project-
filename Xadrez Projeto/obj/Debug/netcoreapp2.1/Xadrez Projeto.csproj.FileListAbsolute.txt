@@ -1,0 +1,11 @@
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\bin\Debug\netcoreapp2.1\Xadrez Projeto.deps.json
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\bin\Debug\netcoreapp2.1\Xadrez Projeto.runtimeconfig.json
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\bin\Debug\netcoreapp2.1\Xadrez Projeto.runtimeconfig.dev.json
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\bin\Debug\netcoreapp2.1\Xadrez Projeto.dll
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\bin\Debug\netcoreapp2.1\Xadrez Projeto.pdb
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\obj\Debug\netcoreapp2.1\Xadrez Projeto.csprojResolveAssemblyReference.cache
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\obj\Debug\netcoreapp2.1\Xadrez Projeto.csproj.CoreCompileInputs.cache
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\obj\Debug\netcoreapp2.1\Xadrez Projeto.AssemblyInfoInputs.cache
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\obj\Debug\netcoreapp2.1\Xadrez Projeto.AssemblyInfo.cs
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\obj\Debug\netcoreapp2.1\Xadrez Projeto.dll
+D:\Matheus\Programação 2018\C# POO\Projeto Jogo de Xadrez\Xadrez Projeto\Xadrez Projeto\obj\Debug\netcoreapp2.1\Xadrez Projeto.pdb
