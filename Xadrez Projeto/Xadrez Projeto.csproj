@@ -6,4 +6,8 @@
     <RootNamespace>Xadrez_Projeto</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="xadrezCamada.cs" />
+  </ItemGroup>
+
 </Project>
