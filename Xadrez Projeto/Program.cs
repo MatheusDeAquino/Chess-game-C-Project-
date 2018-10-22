@@ -6,10 +6,6 @@ namespace Xadrez_Projeto {
     class Program {
         static void Main(string[] args) {
 
-          /*     PosicaoXadrez pos = new PosicaoXadrez('c', 7);
-               Console.WriteLine(pos);
-               Console.WriteLine(pos.toPosicao());             */ //testes sobre posição do xadrez real vs posição na matriz do codigo 
-
             try {
                 PartidaXadrez partida = new PartidaXadrez();
 
@@ -41,6 +37,8 @@ namespace Xadrez_Projeto {
                         Console.ReadLine();
                     }
                 }
+                Console.Clear();
+                Tela.imprimirPartida(partida);
             }
             catch (TabuleiroException e) {
                 Console.WriteLine(e.Message);
